@@ -1,6 +1,4 @@
 
 class StudentsController < ApplicationController
   
-  
-  
 end
