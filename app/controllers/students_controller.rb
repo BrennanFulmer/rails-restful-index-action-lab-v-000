@@ -1,4 +1,4 @@
 
-class Students
+class StudentsController
   
 end
